@@ -4,6 +4,6 @@
 
 <p align="center"
 
-[rentry](https://rentry.co/sherlocks) 　[discord](**link**) 　[atabook](https://moriarty.atabook.org/)
+[rentry](https://rentry.co/sherlocks) 　[discord](https://discordid.netlify.app/?id=794646333821681674) 　[atabook](https://moriarty.atabook.org/)
 
 <br>
